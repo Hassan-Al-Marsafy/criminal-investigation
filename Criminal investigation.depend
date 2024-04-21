@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1672775023 source:c:\users\otame\onedrive\desktop\c++ files\criminal investigation\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+
+1672777132 source:c:\users\otame\onedrive\desktop\c++ files\criminal investigation code\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+
+1672780732 source:c:\users\otame\onedrive\desktop\coding\c++\gam3a\criminal investigation code\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+
+1699335925 source:c:\users\otame\onedrive\desktop\coding\c++\gam3a\sophomore\criminal investigation code\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+
